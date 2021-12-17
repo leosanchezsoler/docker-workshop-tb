@@ -5,3 +5,5 @@ Los siguientes archivos que se comparten se hacen en formato zip debido a que al
 
 # Introducción
 > **Docker es un sistema operativo para contenedores. De manera similar a cómo una máquina virtual virtualiza (elimina la necesidad de administrar directamente) el hardwaree del servidor, los contenedores virtualizan el sistema operativo de un servidor.**
+
+Tienes disponible una guía de Docker en el siguiente [link](https://github.com/leosanchezsoler/docker-workshop-tb)
